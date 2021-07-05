@@ -1,6 +1,6 @@
 # Projeto 4 
 
-![Logo do Markdown](img/markdown.png)
+![Logo do Markdown](C:\Users\User\Desktop\Imagens\rio-de-janeiro.png)
 
 # O PROJETO
 
