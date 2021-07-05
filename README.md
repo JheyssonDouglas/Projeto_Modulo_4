@@ -1,6 +1,6 @@
 # Projeto 4 
 
-<img src = 'C:\Users\User\Desktop\Imagens\rio-de-janeiro.png' width=800px>
+![Capa](https://raw.githubusercontent.com/JheyssonDouglas/Projeto_Modulo_4/main/Imagem/Capa.png)
 
 # O PROJETO
 
