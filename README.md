@@ -1,5 +1,6 @@
 # Projeto 4 
 
+![Imagem do rio](C:\Users\User\Desktop\rio-de-janeiro.png)
 
 # O PROJETO
 
