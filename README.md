@@ -1,6 +1,6 @@
 # Projeto 4 
 
-![Logo do Markdown](C:\Users\User\Desktop\Imagens\rio-de-janeiro.png)
+<ims scr = 'C:\Users\User\Desktop\Imagens\rio-de-janeiro.png' width=800px>
 
 # O PROJETO
 
