@@ -1,6 +1,6 @@
 # Projeto 4 
 
-<ims scr = 'C:\Users\User\Desktop\Imagens\rio-de-janeiro.png' width=800px>
+<img scr = 'C:\Users\User\Desktop\Imagens\rio-de-janeiro.png' width=800px>
 
 # O PROJETO
 
