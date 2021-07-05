@@ -1,6 +1,7 @@
 # Projeto 4 
 
-![Imagem do rio] (C:\Users\User\Desktop\rio-de-janeiro.png)
+![Imagem do rio](C:\Users\User\Desktop\rio-de-janeiro.png)
+![Logo do R](https://i.pinimg.com/originals/de/f6/96/def69643889ee29e232637646e839064.jpg)
 
 # O PROJETO
 
