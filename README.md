@@ -1,7 +1,6 @@
 # Projeto 4 
 
-![Imagem do rio](rio-de-janeiro.png)
-![Logo do R](https://i.pinimg.com/originals/de/f6/96/def69643889ee29e232637646e839064.jpg)
+![Logo do Markdown](img/markdown.png)
 
 # O PROJETO
 
